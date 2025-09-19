@@ -1,0 +1,1 @@
+insert into usuario(codigo, nome, email) values (1, 'Edvan', 'edvan@gmail.com');
