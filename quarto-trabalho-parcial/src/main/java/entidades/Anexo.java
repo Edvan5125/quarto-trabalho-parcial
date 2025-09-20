@@ -10,7 +10,7 @@ import jakarta.persistence.ManyToOne;
 public class Anexo {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public Long codigo;
+    public Integer codigo;
     public String nomeArquivo;
     public Long tamanhoBytes;
     public String urlArmazenamento;

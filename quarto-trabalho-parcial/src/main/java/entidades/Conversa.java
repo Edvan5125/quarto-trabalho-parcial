@@ -10,7 +10,7 @@ import jakarta.persistence.ManyToOne;
 public class Conversa {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    public Long codigo;
+    public Integer codigo;
     public String titulo;
 
     @ManyToOne
