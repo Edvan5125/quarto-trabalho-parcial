@@ -1,4 +1,9 @@
-# quarto-trabalho-parcial
-
-EdvanCommit - 17/09/2025 - 09:44h:
-  Realizado a preparação do ambiente de desenvolvimento Quarkus 
+# •Flavio Luis Ambrozim Junior
+ •Edvan Paulo Manfrim nicolini
+ •Felipe de Souza Carriel
+ •Luiz Gustavo Miranda Manfrim
+ •Marcelo Cazula Junior
+ •Raihany Gomes Mendes
+ •Ramon da Luz Duzanski
+Grupo de engenharia de software grupo B quarta semestre
+Data 22/09/2025
